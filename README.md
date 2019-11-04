@@ -19,7 +19,7 @@ If you want to use our codes and dataset in your research, please cite:
                Yongdong Zhang},
   title     = {Semi-supervised User Profiling with Heterogeneous Graph Attention
                Networks},
-  booktitle = {{IJCAI}},
+  booktitle = {IJCAI},
   pages     = {2116--2122},
   year      = {2019}
 }
