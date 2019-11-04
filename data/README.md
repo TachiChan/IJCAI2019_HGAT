@@ -1,7 +1,7 @@
 # Data Description
 
 | Data | Size | Element Description |
-| ---- | :--- | :---- |
+| ---- | ---- | ---- |
 | word_feature.npy | num_word * dim_word | Word embedding pre-trained by FastText. |
 | adjacency_matrix.npy | num_user *  num_sample_user * num_sample_user| The adjacency matrix of User-User mini subgraph, which consists of sampled user ids. |
 | vertex_id.npy | num_user * num_sample_user | The vertex ids of User-User mini subgraph, we set the last vertex in each subgraph as the ego user node here. |
