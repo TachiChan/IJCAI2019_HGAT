@@ -10,5 +10,4 @@
 | label_gender.npy | num_user * dim_gender | One-hot matrix. |
 | label_age.npy | num_user * dim_age | One-hot matrix. |
 
-The dataset used in our paper can be downloaded here:
-https://github.com/guyulongcs/IJCAI2019_Semi-supervised-User-Profiling-with-Heterogeneous-Graph-Attention-Networks
+The dataset used in our paper can be downloaded here: https://github.com/guyulongcs/IJCAI2019_HGAT
