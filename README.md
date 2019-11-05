@@ -43,5 +43,5 @@ CUDA_VISIBLE_DEVICES=1 python train.py --pkl-dir 01 --data-dir data --model gcn 
 ```
 
 ## Dataset
-The dataset used in our paper has been provided by JD Data Science Lab, which can be downloaded here: https://github.com/guyulongcs/IJCAI2019_HGAT
+The dataset used in our paper has been provided by JD Data Science Lab, which can be downloaded here: https://github.com/guyulongcs/IJCAI2019_HGAT.
 
