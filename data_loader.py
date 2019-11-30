@@ -53,7 +53,7 @@ class InteractionDataSet(Dataset):
         print("vertex ids loaded!")
 
         word_features = np.load(
-            os.path.join(file_dir, "word_feature_used_200.npy"))
+            os.path.join(file_dir, "word_feature.npy"))
         word_features = preprocessing.scale(word_features)
         self.word_features = torch.FloatTensor(word_features)
         print("global word features loaded!")
