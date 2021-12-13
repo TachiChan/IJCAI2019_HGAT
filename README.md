@@ -47,5 +47,5 @@ The dataset used in our paper has been provided by JD Data Science Lab, which ca
 
 ## Related Links
 * [DeepInf](https://github.com/xptree/DeepInf): The main reference for our code implementation.
-* [RHGN](https://github.com/CRIPAC-DIG/RHGN): This work chose our work as a baseline and provide another dataset.
+* [RHGN](https://github.com/CRIPAC-DIG/RHGN): This work choose our work as a baseline and provide another dataset.
 * [CatGCN](https://github.com/TachiChan/CatGCN): Our latest work involves user profiling.
