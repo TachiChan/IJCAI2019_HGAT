@@ -45,7 +45,7 @@ CUDA_VISIBLE_DEVICES=1 python train.py --pkl-dir 01 --data-dir data --model gcn 
 ## Dataset
 The dataset used in our paper has been provided by JD Data Science Lab, which can be downloaded here: https://github.com/guyulongcs/IJCAI2019_HGAT.
 
-# Related Links
+## Related Links
 * [DeepInf](https://github.com/xptree/DeepInf): The main reference for our code implementation.
 * [RHGN](https://github.com/CRIPAC-DIG/RHGN): This work chose our work as a baseline and provide another dataset.
 * [CatGCN](https://github.com/TachiChan/CatGCN): Our latest work involves user profiling.
